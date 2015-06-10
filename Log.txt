@@ -1,0 +1,96 @@
+STATUS > Setup Started.
+STATUS > RAW DATA file opened. A2RawDataSample.csv
+STATUS > RAW DATA file closed
+STATUS > Setup Finished 26 countries processed.
+STATUS > Log FILE opened
+STATUS > CountryData FILE opened
+DATA STORAGE
+MAX_N_HOME_LOC: 20, nHome: 11, nColl: 15
+LOC/ CDE ID- NAME----------- CONTINENT---- ------AREA ---POPULATION LIFE LINK
+001/
+002/
+003/
+004/ MEX 012 Mexico          North America  1,958,201    98,881,000 71.5 030
+005/
+006/
+007/
+008/ LBN 060 Lebanon         Asia              10,400     3,282,000 71.3 -01
+009/ SOM 069 Somalia         Africa           637,657    10,097,000 46.2 -01
+010/ KEN 102 Kenya           Africa           580,367    30,080,000 48.0 033
+011/ EGY 030 Egypt           Africa         1,001,449    68,470,000 63.3 -01
+012/ CHN 023 China           Asia           9,572,900 1,277,558,000 71.4 027
+013/
+014/ OMN 042 Oman            Asia             309,500     2,542,000 71.8 -01
+015/ USA 006 United States   North America  9,363,520   278,357,000 77.1 -01
+016/
+017/ YEM 090 Yemen           Asia             527,968    18,112,000 59.8 029
+018/ NIC 010 Nicaragua       North America    130,000     5,074,000 68.7 -01
+019/
+020/ JPN 013 Japan           Asia             377,829   126,714,000 80.7 035
+021/ FRA 019 France          Europe           551,500    59,225,700 78.8 -01
+022/ BEL 027 Belgium         Europe            30,518    10,239,000 77.8 -01
+023/ GBR 032 United Kingdom  Europe           242,900    59,623,400 77.7 -01
+024/ HTI 039 Haiti           North America     27,750     8,222,000 49.2 022
+025/ VEN 043 Venezuela       South America    912,050    24,170,000 73.1 023
+026/ POL 020 Poland          Europe           323,250    38,653,600 73.2 021
+027/ IND 072 India           Asia           3,287,263 1,013,662,000 62.5 025
+028/ DEU 053 Germany         Europe           357,022    82,164,700 77.4 026
+029/ WSM 037 Samoa           Oceania            2,831       180,000 69.2 -01
+030/ XVI 001 Hex Land        North America          1 1,966,514,816  0.0 024
+031/ QAT 035 Qatar           Asia              11,000       599,000 72.4 028
+032/ ZWE 132 Zimbabwe        Africa           390,757    11,669,000 37.8 -01
+033/ RUS 120 Russian Federat Europe        17,075,400   146,934,000 67.2 032
+034/ TCA 029 Turks and Caico North America        430        17,000 73.3 031
+035/ ATA 059 Antarctica      Antarctica    13,120,000             0  0.0 034
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+STATUS > CountryData FILE closed
+STATUS > Log FILE closed
+STATUS > UserApp Started
+STATUS > TransDataFile Opened. TransData 1
+SC MEX
+MEX 012 Mexico          North America  1,958,201    98,881,000 71.5
+SC JPN
+JPN 013 Japan           Asia             377,829   126,714,000 80.7
+SC FRA
+FRA 019 France          Europe           551,500    59,225,700 78.8
+SC ATA
+ATA 059 Antarctica      Antarctica    13,120,000             0  0.0
+SC LBN
+LBN 060 Lebanon         Asia              10,400     3,282,000 71.3
+SC WSM
+WSM 037 Samoa           Oceania            2,831       180,000 69.2
+SC NPJ
+Country data not found.
+SC NLB
+Country data not found.
+SC EMY
+Country data not found.
+SC QQQ
+Country data not found.
+SC YEM
+YEM 090 Yemen           Asia             527,968    18,112,000 59.8
+SC IQQ
+Country data not found.
+DC USA
+[SORRY! Delete by code module not yet working.]
+DC FRA
+[SORRY! Delete by code module not yet working.]
+DC WMU
+[SORRY! Delete by code module not yet working.]
+SC JOR
+Country data not found.
+SC GRC
+Country data not found.
+SC MYS
+Country data not found.
+SC QAT
+Country data not found.
+SC ATA
+Country data not found.
+SC WSM
+Country data not found.
+SC BEL
+Country data not found.
+STATUS > UserApp Finished 22 countries processed.
+STATUS > TransDataFile closed
